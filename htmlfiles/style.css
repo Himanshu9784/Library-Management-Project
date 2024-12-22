@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    font-family: Arial;
+}
+.background-image {
+    height: 100vh;
+    background-image: url("C:\Users\himan\OneDrive\Desktop\Library Management System\htmlfiles\style.css");
+    background-size: cover;
+}
